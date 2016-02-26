@@ -1,0 +1,112 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Tile_style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">10sp</item>
+    </style>
+    <style name="margint_top_image">
+        <item name="android:layout_width">18dp</item>
+        <item name="android:layout_height">18dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+    <style name="ED_Bold_text">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="But_Margin_ED">
+        <item name="android:padding">0dp</item>
+        <item name="android:layout_margin">-2dp</item>
+        <item name="android:layout_height">45dp</item>
+    </style>
+    <style name="liner_padding">
+    <item name="android:padding">5dp</item>
+</style>
+    <style name="header_height">
+        <item name="android:layout_height">50dp</item>
+    </style>
+    <style name="layout_margin_top">
+        <item name="android:layout_marginTop">30dp</item>
+    </style>
+    <style name="ED_secound_screen">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:padding">10dp</item>
+    </style>
+    <style name="But_secound_screen">
+        <item name="android:layout_height">50dp</item>
+
+    </style>
+    <style name="TV_voices_secound_screen">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="padding_coontent">
+        <item name="android:layout_marginTop">25dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <!--<item name="android:paddingTop">30dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingRight">20dp</item>-->
+    </style>
+    <style name="Image_height_width">
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+    <style name="Text_Size_Music_Voice">
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="music_name_textviews">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Third_screen_Textviews_list">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+    <style name="Third_screen_layout_height_LLH">
+        <item name="android:layout_height">40dp</item>
+    </style>
+    <style name="Include_screen_Ed_width">
+        <item name="android:layout_width">50dp</item>
+    </style>
+    <style name="Textview_style_fourt_screen">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:color">@color/Fourth_screen_Tv_color</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="View_height_width_fout_screen">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">100dp</item>
+    </style>
+    <style name="tick_mark_height_width_fourth_screen">
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">40dp</item>
+    </style>
+    <style name="View_arrange_fourth_screen">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+    <style name="Imv_Record_fifth_screen">
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_width">40dp</item>
+    </style>
+</resources>

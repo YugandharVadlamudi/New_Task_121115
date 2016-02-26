@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">New_Task_12/11/15</string>
+    <string name="First_screen_title_view">Combine Sound\'s</string>
+    <string name="Fifth_screen_title_view">Record</string>
+    <string name="ED_Select_first_song">Select the first song</string>
+    <string name="ED_Select_Secound_song">Select the secound song</string>
+    <string name="ED_Combined_sound_name">Give the combined sound name</string>
+    <string name="But_Browse">Browse</string>
+    <string name="But_Save">Save</string>
+    <string name="But_Cancle">Cancle</string>
+    <string name="Secound_screen_Ed_text">Select the first song</string>
+    <string name="Secound_screen_Tv_text_1">Sensational</string>
+    <string name="Secound_screen_Tv_text_2">Greeny</string>
+    <string name="Secound_screen_Tv_text_3">Drumy</string>
+    <string name="Secound_screen_Tv_text_4">Mystical</string>
+    <string name="Secound_screen_Tv_text_5">Amma Amma-Isaikadal</string>
+    <string name="Secound_screen_Tv_text_6">Far Alone(feat</string>
+    <string name="Secound_screen_Tv_text_Voice">Voices</string>
+    <string name="Secound_screen_Tv_text_Music">music</string>
+    <string name="Third_screen_Tv_head_text">Music</string>
+    <string name="Third_screen_Tv_Alarma_1">List of Alarams</string>
+    <string name="Third_screen_Tv_Alarma_2">Add New  Alaram</string>
+    <string name="Third_screen_Tv_Calander">Calander</string>
+    <string name="Third_screen_Tv_Upload_music">Upload Music</string>
+    <string name="Third_screen_Tv_Micro_phone">Record</string>
+    <string name="Third_screen_Tv_Share">Share Inspiration</string>
+    <string name="Include_screen_Et_sring">Please Click on browse </string>
+    <string name="Include_screen_But_sring">Browse </string>
+    <string name="Include_screen_But_sring_cancle">Cancle </string>
+    <string name="Fourt_screen_Title_text">Select Theme</string>
+    <string name="Fourt_screen_Tv_Purple">Purple</string>
+    <string name="Fourt_screen_Tv_Blue">Blue</string>
+    <string name="Fourt_screen_Tv_Grey">Grey</string>
+    <string name="Fourt_screen_Tv_Candy_rose">Candy Rose</string>
+    <string name="Fourt_screen_Tv_Persion_Green">Persion Green</string>
+    <string name="Fourt_screen_Tv_Eglipt_purple">Egylipt purple</string>
+    <string name="Fourt_screen_Bv_String">Set Theme</string>
+    <string name="Seek_bar_time">00:00:02</string>
+    <string name="fifth_screen_start_stop_recording">Start/Stop Recording</string>
+    <string name="fifth_screen_Play_record">To play the recording.</string>
+    <string name="fifth_screen_pause_continue_record">Pause/continue the  recording.</string>
+    <string name="fifth_screen_save_continue_record">Sause/Cancle.</string>
+
+</resources>

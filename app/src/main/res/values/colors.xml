@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Linear_h_back_color">#614892</color>
+    <color name="Text_Color">#FFFFFF</color>
+    <color name="border_color">#E04343</color>
+    <color name="Ed_border_color">#000000</color>
+    <color name="Save_Color">#FFFFFF</color>
+    <color name="Cancel_Color">#816EA8</color>
+    <color name="Secound_secreen_View_Color">#EFEFF0</color>
+    <color name="Secound_Screen_Voices_BgColor">#614892</color>
+    <color name="Secound_Screen_Voices_TvColor">#FFFFFF</color>
+    <color name="Secound_Screen_LLV_border">#AAAAAA</color>
+    <color name="Tird_Screen_View_color">#EAE9EB</color>
+    <color name="Fourth_screen_Tv_color">#5E378A</color>
+    <color name="Fourth_screen_view_purple">#5E378A</color>
+    <color name="Fourth_screen_view_Blue">#294D94</color>
+    <color name="Fourth_screen_view_Gray">#3B4C5A</color>
+    <color name="Fourth_screen_view_Cyon_rose">#E9467C</color>
+    <color name="Fourth_screen_view_Persion_green">#327377</color>
+    <color name="Fourth_screen_view_Eglipt_purple">#1E0D3C</color>
+    <color name="seek_progress_bar">#7F7F7F</color>
+</resources>

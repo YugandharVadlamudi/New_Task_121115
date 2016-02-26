@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/menu_search_bg"
+    >
+<LinearLayout
+    android:id="@+id/LLH_Search"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:layout_marginTop="50dp"
+    >
+<EditText
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:hint="@string/Include_screen_Et_sring"
+    android:background="@drawable/calendar_week_bar"
+    android:layout_gravity="center"
+    android:layout_weight="1"
+    android:paddingLeft="10dp"
+    />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Include_screen_But_sring"
+        android:background="@drawable/am_pm_right_active"/>
+</LinearLayout>
+    <!--buttons save cancle-->
+    <LinearLayout
+        android:id="@+id/LLH_save_cancle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:text="@string/Include_screen_But_sring"
+            android:background="@drawable/share_btn"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:text="@string/Include_screen_But_sring_cancle"
+            android:background="@drawable/share_btn"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+</LinearLayout>
